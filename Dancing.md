@@ -1,6 +1,9 @@
 # HackTheBox Starting Point: Dancing
+
 **Platform:** HackTheBox (Starting Point, Tier 0)
+
 **Difficulty:** Very Easy
+
 **Focus:** SMB enumeration, anonymous access
 
 ## Machine Info

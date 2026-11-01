@@ -8,4 +8,4 @@ This repo documents a collection of machines I’ve solved, with notes on what I
 - Platforms: TryHackMe, HackTheBox
 
 ## Write-ups
-   - [Dancing](Dancing.md)
+- [HackTheBox](HackTheBox/)

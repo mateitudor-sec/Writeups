@@ -1,4 +1,4 @@
-# Writeups
+# Quick Info
 Hello! I am a high school student trying to learn cybersecurity.
 This repo documents a collection of machines I’ve solved, with notes on what I've learned along the way.
 

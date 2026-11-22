@@ -39,7 +39,7 @@ After submitting the form, the login was bypassed and I was redirected to a page
 - Where Injection sits in the 2021 OWASP Top 10 (`A03:2021-Injection`)
 -- How the `#` character is used and how can you use SQL Injection with it.
 ## Remediation
-- Employ prepared statements: ...
+- Use prepared statements: this way what the user types can't change the query anymore. This is the proper fix for SQL Injection.
 - Filter user input: Always validate the input on the server side to prevent any unexpected characters or odd patterns from getting through.
 - Hash passwords correctly: Never store passwords in plaintext; always use hashed passwords and validate them in your application code rather than using an insecure SQL statement to do it.
 

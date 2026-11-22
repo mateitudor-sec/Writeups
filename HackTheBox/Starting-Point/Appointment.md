@@ -38,9 +38,8 @@ After submitting the form, the login was bypassed and I was redirected to a page
 - What SQL stands for (Structured Query Language) and how SQL Injection works
 - Where Injection sits in the 2021 OWASP Top 10 (`A03:2021-Injection`)
 -- How the `#` character is used and how can you use SQL Injection with it.
-
 ## Remediation
--Check and filter user input: Validate input on the server side so unexpected characters or weird patterns don't slip through unchecked.
---Hash passwords properly: Store hashed passwords instead of plain text, and verify them securely in the application code rather than letting an unsafe SQL query decide the login.
-
+- Employ prepared statements: ...
+- Filter user input: Always validate the input on the server side to prevent any unexpected characters or odd patterns from getting through.
+- Hash passwords correctly: Never store passwords in plaintext; always use hashed passwords and validate them in your application code rather than using an insecure SQL statement to do it.
 

@@ -4,7 +4,7 @@
 
 **Difficulty:** Very Easy
 
-**Focus:** Web enumeration, Gobuster, SQL Injection (Authentication Bypass)
+**Focus:** Web enumeration, SQL Injection (Authentication Bypass)
 
 ## Machine Info
 Appointment is a very easy Linux machine which showcases beginner SQL Injection techniques against an SQL database enabled web application.
